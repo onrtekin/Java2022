@@ -35,5 +35,6 @@ public class C02_ListeyiDuzenliYazdirma {
             System.out.println(each);
         }
 
+
     }
 }
