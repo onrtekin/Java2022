@@ -34,7 +34,7 @@ public class C01_Maps {
        (veri siralamasi ve sekilsel acidan)
          */
 
-        sinifList.put(101,"Ali, Can, Dev");
+        sinifList.put(101,"Ali, Can, Java");
         sinifList.put(102,"Veli, Yan, QA");
         sinifList.put(103,"Ali, Yan, C#");
         System.out.println(sinifList);
