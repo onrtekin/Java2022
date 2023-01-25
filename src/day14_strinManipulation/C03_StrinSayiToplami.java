@@ -3,14 +3,11 @@ package day14_strinManipulation;
 public class C03_StrinSayiToplami {
     public static void main(String[] args) {
 
-        String str1="$13.99";
-        String str2="$10.55";
 
-        str1=str1.substring(1);
-        str2=str2.substring(1);
-        System.out.println(Double.valueOf(str1)+Double.valueOf(str2));
+        String str="11.11.2011";
+        String yeniStr=str.substring(0,1)+str.substring(1,2).replaceAll("\\S","*")+str.substring(2,4)+str.substring(4,5).replaceAll("\\S","*")+str.substring(5);
 
-
+        System.out.println(yeniStr);
 
     }
 }
