@@ -10,10 +10,10 @@ public class C08_ForLoop {
 
     private static void palindromKontrolEt(String input) {
 
-
-
-
         String terstenInput="";
+
+
+
 
 
 
@@ -21,7 +21,6 @@ public class C08_ForLoop {
             terstenInput=input.substring(i,i+1);
             System.out.print(terstenInput);
         }
-
 
         if(input.equalsIgnoreCase(terstenInput)){
             System.out.println(" : palindrome");

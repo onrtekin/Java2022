@@ -6,7 +6,7 @@ public class C10_TekCift {
 
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
-        System.out.print("Lutfen bir tamsayi giriniz:");
+        System.out.println("Lutfen bir tamsayi giriniz");
         int sayi= scan.nextInt();
 
         if (sayi%2==0){

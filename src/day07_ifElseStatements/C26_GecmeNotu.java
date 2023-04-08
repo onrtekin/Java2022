@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class C26_GecmeNotu {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
-        System.out.print("Lutfen Aldiginiz Notu Giriniz : ");
+        System.out.println("Lutfen Aldiginiz Notu Giriniz");
 
         int not= scan.nextInt();
 
