@@ -25,7 +25,7 @@ public class C01_Variables {
         String soyİsim="Tekin";
         System.out.println(isim);
         System.out.println(soyİsim);
-        System.out.println("Isminiz : "+ isim);
+        System.out.println("Isminiz : " + isim);
         System.out.println("Soyisminiz: " + soyİsim);
 
         short sayi10=20;
