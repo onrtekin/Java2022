@@ -24,6 +24,7 @@ degismis halini map e eklememiz gerekir
             String valueYeni=valueArr[0]+", "+valueArr[1]+", "+valueArr[2];
             sinifListMap.put(keyEntry,valueYeni);
 
+
         }
         System.out.println(sinifListMap);
 
