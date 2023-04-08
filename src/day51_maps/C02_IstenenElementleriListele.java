@@ -1,4 +1,4 @@
-package day_51_maps;
+package day51_maps;
 
 import day49_maps.MapOlustur;
 
