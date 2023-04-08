@@ -7,7 +7,7 @@ public class C05_Stringi_Terse_Cevirme {
     public static void main(String[] args) {
 
         // Verilen sayinin asal sayi (prime Number olup olmadigini yazdiran bir method olusturma//
-        // Yazdiran dedigi icin void degil int olacak method
+        // Yazdiran dedigi icin void degil 0int olacak me~thod
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Please enter a string that you want to reverse");
